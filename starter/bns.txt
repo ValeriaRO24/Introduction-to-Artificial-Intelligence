@@ -1,0 +1,19 @@
+1. What would the calculations tell you about the fairness of "Naive Bayes"
+Overall there is a fairness level to naive bayes as it is a decent predictor and
+uses good structure of statistical data to provide its information and with the given
+examples I would consider it fair to a degree, probabily better with more input data as
+more to "learn" from but can be very limiited with limited data, so as an overall concept
+it can seem as fair as could be made, but again is not 100 precent
+
+
+2. What is the most significant thing you have learned from the Bayesian Network module, overall?
+I learned about the relationship between factors and variables and how to properly be able to calculate different
+aspects such as normalization, sum out, how restricting factors affect it, etc. It was useful to see
+these aspects structured in a different format such as coded to be able to see how these structures work.
+as well as how probabilites work in a bayes network.
+
+3. if the self-assessment exercises have been of any value?
+Yes I do believe the self-assessment have value especially if it is assessed by completion because it allows
+the person to turly think about their answer and not have to work about correctness or proper writing, etc...
+Its also good because throughout the assignment youre thinking about what you might be able to reflect on
+at the end, and remember the moments you overcame/struggled with.
